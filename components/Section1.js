@@ -9,10 +9,10 @@ export default function Section1() {
           <h2 className='text-sm text-green-500 tracking-widest title-font font-bold mb-1 uppercase'>
             introducing
           </h2>
-          <h1 className='sm:text-6xl text-2xl my-2 font-semibold mb-4 text-gray-900'>
+          <h1 className='sm:text-6xl text-3xl my-2 font-semibold mb-4 text-gray-900'>
             Satria <span className='text-blue-500'>Bimbel</span>
           </h1>
-          <p className='lg:w-2/3 mx-auto leading-relaxed md:text-base text-sm'>
+          <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
             Kami di Satria Bimbel mengutamakan keberhasilan setiap pelanggan
             kami. Kami tidak hanya memberikan pelajaran, tetapi juga membantu
             Anda mengembangkan keterampilan, kepercayaan diri, dan strategi
@@ -30,9 +30,9 @@ export default function Section1() {
           />
         </div>
         <a
-          href='https://api.whatsapp.com/send?phone=085243332776'
+          href='https://api.whatsapp.com/send?phone=6285243332776'
           target='__blank'>
-          <button className='flex mx-auto mt-16 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-300 rounded-xl text-lg'>
+          <button className='flex mx-auto mt-10 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-300 rounded-xl text-lg'>
             Hubungi Kami
           </button>
         </a>

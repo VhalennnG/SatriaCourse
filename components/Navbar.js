@@ -20,7 +20,7 @@ export default function Navbar() {
         </a>
         <nav className='mr-auto ml-4 md:py-1 md:pl-4 md:border-gray-400	flex flex-wrap items-center text-base justify-center'></nav>
         <a
-          href='https://api.whatsapp.com/send?phone=085243332776'
+          href='https://api.whatsapp.com/send?phone=6285243332776'
           target='__blank'>
           <button className='inline-flex items-center bg-green-500 border-0 px-3 py-2 focus:outline-none hover:bg-blue-300 rounded text-base text-white font-bold'>
             Kontak Kami

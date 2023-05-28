@@ -81,7 +81,7 @@ export default function Section4() {
               </li>
             </ul>
             <a
-              href='https://api.whatsapp.com/send?phone=085243332776'
+              href='https://api.whatsapp.com/send?phone=6285243332776'
               target='__blank'>
               <button className='flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-300 rounded-xl text-lg'>
                 Hubungi Kami
@@ -154,7 +154,7 @@ export default function Section4() {
               </li>
             </ul>
             <a
-              href='https://api.whatsapp.com/send?phone=085243332776'
+              href='https://api.whatsapp.com/send?phone=6285243332776'
               target='__blank'>
               <button className='flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-300 rounded-xl text-lg'>
                 Hubungi Kami
@@ -227,7 +227,7 @@ export default function Section4() {
               </li>
             </ul>
             <a
-              href='https://api.whatsapp.com/send?phone=085243332776'
+              href='https://api.whatsapp.com/send?phone=6285243332776'
               target='__blank'>
               <button className='flex mx-auto mt-6 text-white bg-green-500 border-0 py-2 px-8 focus:outline-none hover:bg-blue-300 rounded-xl text-lg'>
                 Hubungi Kami

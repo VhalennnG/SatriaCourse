@@ -25,7 +25,7 @@ export default function Section5() {
               </h1>
               <div className='flex justify-center'>
                 <a
-                  href='https://api.whatsapp.com/send?phone=085243332776'
+                  href='https://api.whatsapp.com/send?phone=6285243332776'
                   target='__blank'>
                   <button className='inline-flex text-white border-2 border-white md:py-2 p-1 md:px-6 focus:outline-none hover:bg-white hover:text-green-500 hover:text-bold rounded md:text-xl text-sm'>
                     Kontak Kami
